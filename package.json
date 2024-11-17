@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "grunt": "^1.4.1",
-    "grunt-angular-gettext": "^2.5.3",
+    "grunt-angular-gettext": "^2.3.17",
     "grunt-cli": "^1.4.3",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-compress": "^2.0.0",
@@ -41,8 +41,8 @@
     "grunt-json-minify": "^1.1.0",
     "grunt-nw-builder": "^4.0.1",
     "grunt-shell": "^3.0.1",
-    "grunt-wget": "^0.1.3",
-    "grunt-zip": "^0.18.2",
+    "grunt-wget": "^0.1.0",
+    "grunt-zip": "^1.0.0",
     "npm-platform-dependencies": "0.1.0",
     "nw": "0.83.0",
     "nw-builder": "^4.5.4"
